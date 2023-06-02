@@ -20,9 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Desktop
 
-![](/screenshorts/desktop.jpg.png)
+![Desktop](screenshorts/desktop.jpg)
 #### Mobile
-![](/screenshorts/mobile.jpg.png)
+![Mobile](screenshorts/mobile.jpg)
 
 
 ### Links
